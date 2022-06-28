@@ -1,0 +1,29 @@
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+}
+
+body{
+    font-family: 'Opens Sans';
+}
+
+h1{
+    font-family: var(--fontTittle);
+    font-weight: 700;
+    font-size: 57px;
+}
+
+ul{
+    padding-left: 0px;
+}
+
+li a:hover{
+    text-decoration: underline;
+}
