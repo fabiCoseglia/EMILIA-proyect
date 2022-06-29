@@ -1,3 +1,30 @@
 .index__header__vertical{
     margin-left: 30px;
 }
+
+/*HORIZONTAL*/
+
+.header_horizontal--menu{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.header__horizontal--ul{
+    display: flex;
+    justify-content: flex-end;
+    
+    
+}
+
+.header__horizontal--ul li{
+    margin: 3px;
+}
+
+.index__header__horizontal--redes{
+    display: flex;
+    justify-content: flex-end;
+        
+    
+}
+.index__header__horizontal--redes a{
+    margin: 3px;
+}
