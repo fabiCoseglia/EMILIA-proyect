@@ -4,3 +4,7 @@ Proyecto basado en levantar un servidor con express ademas de armar un maquetado
 a continuación una vista previa del proyecto original:
 
 ![](mocks/home.png)
+
+vista previa del proyecto realizado por mi:
+
+![](c:/Users/fabia/Downloads/proyecto-emilia.png)
