@@ -4,14 +4,15 @@
 
 /*HORIZONTAL*/
 
-.header_horizontal--menu{
+/*.header_horizontal--menu{
     background-color: rgba(255, 255, 255, 0.4);
 }
+*/
 
 .header__horizontal--ul{
     display: flex;
     justify-content: flex-end;
-    
+    background-color: rgba(255, 255, 255, 0.4);
     
 }
 
@@ -27,4 +28,9 @@
 }
 .index__header__horizontal--redes a{
     margin: 3px;
+}
+
+.header__horizontal__music{
+    background-image: url(/img/emilia-music-top.jpg);
+    height: 100px;
 }
