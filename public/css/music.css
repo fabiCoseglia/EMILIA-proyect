@@ -46,6 +46,11 @@
     margin-top: 50px;
 }
 
+.header__horizontal--ul{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 html{
     scroll-behavior: smooth;
 }
